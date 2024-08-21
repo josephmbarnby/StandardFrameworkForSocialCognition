@@ -3,4 +3,4 @@ Repo for the paper: A Standard Framework for Social Cognition: Interoperable Alg
 
 https://osf.io/preprints/psyarxiv/cmgu7/
 
-<img src="Figure1_Framework.png"  width="637" height="450">
+<img src="Figure1_Framework_Alt.png"  width="637" height="450">
