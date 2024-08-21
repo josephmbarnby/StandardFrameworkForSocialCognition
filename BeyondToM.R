@@ -2,9 +2,8 @@
 library(tidyverse)
 library(patchwork)
 
-#Script for Barnby et al., 2023
-#Beyond Theory of Mind: A formal framework for social inference and representation
-#Authored by Joe Barnby
+#Script for 
+#A Standard Framework for Social Cognition: Interoperable Algorithms for Inference and Representation
 #CC-BY
 
 # Generative Steady State (Figure 2) -------------------------------------------------
